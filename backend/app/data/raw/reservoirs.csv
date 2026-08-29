@@ -1,0 +1,29 @@
+reservoir_id,region_id,name,capacity_mcm,latitude,longitude
+1,1,Visakhapatnam Reservoir 1,1233.9,22.9468,73.7026
+2,1,Visakhapatnam Reservoir 2,1207.7,23.0103,73.9098
+3,2,Krishna Reservoir 3,1105.9,15.0867,79.1545
+4,3,Guntur Reservoir 4,816.1,22.6729,74.2853
+5,4,Anantapur Reservoir 5,1117.7,16.6593,76.5279
+6,5,Pune Reservoir 6,657.2,23.4762,81.2703
+7,5,Pune Reservoir 7,1404.9,23.5055,81.2041
+8,6,Nagpur Reservoir 8,585.2,13.7397,74.4689
+9,7,Nashik Reservoir 9,1144.6,14.2034,73.3104
+10,8,Marathwada Reservoir 10,1181.9,20.1007,76.0174
+11,8,Marathwada Reservoir 11,557.1,19.9042,75.8437
+12,9,Jaipur Reservoir 12,1566.6,15.8792,75.928
+13,9,Jaipur Reservoir 13,232.5,15.8794,76.0418
+14,10,Jodhpur Reservoir 14,821.5,14.5992,72.5077
+15,10,Jodhpur Reservoir 15,651.1,14.3643,72.2892
+16,11,Bikaner Reservoir 16,1085.1,18.1467,76.7998
+17,11,Bikaner Reservoir 17,1477.7,18.5005,77.1593
+18,12,Chennai Reservoir 18,1243.0,24.8789,81.2538
+19,12,Chennai Reservoir 19,872.9,24.694,80.9403
+20,13,Coimbatore Reservoir 20,1102.7,24.51,77.7798
+21,13,Coimbatore Reservoir 21,1020.3,24.5824,77.7564
+22,14,Madurai Reservoir 22,1404.8,21.8731,77.3217
+23,14,Madurai Reservoir 23,670.6,22.251,77.8207
+24,15,Bengaluru Rural Reservoir 24,393.7,16.7827,73.6482
+25,15,Bengaluru Rural Reservoir 25,746.1,16.9173,73.6944
+26,16,Belagavi Reservoir 26,791.9,20.3446,72.5562
+27,16,Belagavi Reservoir 27,1573.1,20.0146,72.0793
+28,17,Kalaburagi Reservoir 28,1307.0,19.8666,78.3863
