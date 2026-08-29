@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated data & models (regenerate with data_generator.py / train_models.py)
+backend/app/data/raw/*.csv
+backend/trained_models/*.pkl
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# misc
+.DS_Store
+*.log
